@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Screen Learning Agent</string>
+    <string name="accessibility_description">화면을 분석하고 터치 패턴을 학습하는 AI 에이전트입니다.</string>
+</resources>
