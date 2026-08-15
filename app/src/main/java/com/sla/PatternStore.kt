@@ -1,5 +1,5 @@
 package com.sla
-implementation("com.google.code.gson:gson:2.10.1")
+
 import android.content.Context
 import android.content.SharedPreferences
 import com.google.gson.Gson
