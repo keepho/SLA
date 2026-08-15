@@ -38,9 +38,18 @@ dependencies {
     implementation("androidx.appcompat:appcompat:1.6.1")
     implementation("com.google.android.material:material:1.11.0")
     implementation("androidx.constraintlayout:constraintlayout:2.1.4")
+    
+    // Gson 추가!
+    implementation("com.google.code.gson:gson:2.10.1")
+    
+    // ML Kit
     implementation("com.google.mlkit:text-recognition-korean:16.0.0")
     implementation("com.google.mlkit:object-detection:17.0.0")
+    
+    // TensorFlow Lite
     implementation("org.tensorflow:tensorflow-lite:2.14.0")
     implementation("org.tensorflow:tensorflow-lite-support:0.4.4")
+    
+    // Coroutines
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3")
 }
